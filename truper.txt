@@ -1,0 +1,25 @@
+
+elaborar una app en android que permita leer los datos de un empleado:
+
+nombre
+Tipo de empleado
+No de horas trabajadas
+cuota que se le paga por hora
+
+calcular en imprimir el sueldo a pagar. 
+
+si el empleado es tipo 1 se le pagan las horas extras (mas de 40 hrs) a 1.5 veces de la cuota por hora
+
+si es tipo 2 a 2
+
+si es tipo 3 a 2.5
+
+si es tipo 4 a 3 veces la cuota por hora
+
+
+
+1 QUe?
+
+
+
+
